@@ -1,0 +1,17 @@
+function main;
+beginparams
+endparams
+
+beginlocals
+## 2_ : integer;
+##  _2 : integer;
+  n : integer;
+##  +?
+  n := n + 1?
+  2n : integer;
+  2_
+  i, j, k: integer;
+  n_ : integer;
+  t : array [20] of integer;
+  2_ : integer;
+endlocals
